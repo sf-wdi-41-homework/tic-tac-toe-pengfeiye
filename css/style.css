@@ -6,3 +6,23 @@
   border: 1px solid black;
   height: 150px;
 }
+
+img {
+  height: 100px;
+  margin-top: 18%;
+}
+
+#reset img {
+  height:auto;
+  margin-top: 7%;
+}
+
+
+body{
+  background: url("./background.jpg ");
+  background-size: auto;
+}
+
+h1 img{
+  margin: 0 auto;
+}
