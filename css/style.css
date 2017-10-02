@@ -5,6 +5,7 @@
 .box {
   border: 1px solid black;
   height: 150px;
+  background: rgba(255,255,255,0.7);
 }
 
 img {
@@ -15,6 +16,10 @@ img {
 #reset img {
   height:auto;
   margin-top: 7%;
+}
+
+#reset img:hover{
+  height: 70px;
 }
 
 
