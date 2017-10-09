@@ -5,7 +5,7 @@
 .box {
   border: 1px solid black;
   height: 150px;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255, 255, 255, 0.7);
 }
 
 img {
@@ -14,20 +14,19 @@ img {
 }
 
 #reset img {
-  height:auto;
+  height: auto;
   margin-top: 7%;
 }
 
-#reset img:hover{
+#reset img:hover {
   height: 70px;
 }
 
-
-body{
-  background: url("./background.jpg ");
+body {
+  background: url("../img/background.jpg ");
   background-size: auto;
 }
 
-h1 img{
+h1 img {
   margin: 0 auto;
 }
